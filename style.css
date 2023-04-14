@@ -131,6 +131,7 @@ main {
     left: 0;
 }
 .top-hat {
+    z-index: 2;
     position: relative;
     left: 133px;
     top: -10px;
