@@ -17,7 +17,7 @@
 }
 
 .luna {
-    position: relative;
-    left: 215px;
+    position: sticky;
+    left: 0;
 }
 
